@@ -1,4 +1,4 @@
-I completed According To Your Instructuion Using Provider (State Management)
+I completed According To Your Instructuion Using Provider (State Management) (USED ANIMATION)
 Here's The ScreenShot
 ![Screenshot (401)](https://github.com/user-attachments/assets/bb92cf95-112f-480b-af4f-197078a002b3)
 ![Screenshot (400)](https://github.com/user-attachments/assets/92c5a286-a2c0-43ed-ad1c-5f5d9dbbe1fd)
